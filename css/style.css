@@ -1,0 +1,38 @@
+body {
+	background: #eee;
+	font-family: sans-serif;
+	margin: 0;
+	padding:0;
+}
+
+#heromast {
+	background: red;
+	height:130px;
+}
+
+header {
+	background: #333;
+	color:#fff;
+}
+
+header nav ul {
+	margin:0;
+	padding:9;
+}
+
+header nav ul li {
+	list-style: none;
+	display: inline-block;
+	width: 100pxx;
+}
+
+header nav ul li a {
+	color:#fff;
+	text-decoration: none;
+	display: block;
+	padding:0 30px;
+}
+header nav ul li a:hover {
+	background: #eee;
+	color:#333;
+}
