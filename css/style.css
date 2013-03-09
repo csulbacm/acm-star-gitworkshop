@@ -1,51 +1,100 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,900italic);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700);
+
 body {
 	background: #eee;
-	font-family: sans-serif;
+	font-family: "Open Sans", sans-serif;
 	margin: 0;
 	padding:0;
 	font-size:13px;
 }
 
+h1, h2, h3, h4 {
+	text-transform: uppercase;
+	color: #4889D2;
+	text-shadow:rgba(0,10, 60,.8) 0px 1px 0px;
+}
+
 #heromast {
-	background: red;
+	background: #4889D2;
 	height:130px;
 }
 
+#heromast h1, 
+#heromast h2 {
+	color: #fff;
+} 
+
+#heromast h1 {
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+	font-size:70px;
+	text-transform: uppercase;;
+	font-style: italic;
+	
+	padding: 0;
+	margin: 0;
+	height: 90px;
+	text-shadow:rgba(0,0,0,.3) 0px 2px 0px;
+}
+
+#heromast h2 {
+	margin: 0px 0 0 0;
+	padding: 0;
+	font-size: 20px;
+	height:20px;
+	text-align: center;
+	font-weight: normal;
+	text-transform: uppercase;;
+}
+
 header {
-	background: #444;
 	color:#fff;
  }
 
+header nav {
+	border-bottom: 1px #ddd solid;
+}
 
 header nav ul {
-	height:30px;
+	height:35px;
 }
 
 header nav ul {
 	margin:0;
 	padding:0;
+	text-align: center;
 }
 
 header nav ul li {
 	list-style: none;
-	display: block;
-	float: left;
+	display: inline-block;
+
+
 	height:30px;
+
 	margin: 0;
 	padding: 0;
 
-	border-right:1px solid #666;
 }
 
 header nav ul li a {
-	color:#fff;
 	text-decoration: none;
 	display: block;
-	padding:7px 30px;
-	height:15px;
+	padding:5px 30px;
+	margin:5px 10px;
+	height:14px;
+	line-height: 14px;
+	
+	background: #4889D2;
+	color:#fff;
+	border: 1px solid #666;
+	border-radius: 3px;
 }
 header nav ul li a:hover {
+
+	border: 1px solid #ddd;
 	background: #eee;
 	color:#333;
-	box-shadow: rgba(0,0,0,.3) 0px 2px 0px inset;
+	box-shadow: rgba(0,0,0,.3) 0px 2px 3px inset;
 }
