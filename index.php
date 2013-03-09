@@ -1,6 +1,6 @@
 <?php
     // Variable Title
-    $title = "This is a title";
+    $title = "Home";
 ?>
 <?php include("inc/top.php"); ?>
 
