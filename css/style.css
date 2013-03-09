@@ -3,6 +3,7 @@ body {
 	font-family: sans-serif;
 	margin: 0;
 	padding:0;
+	font-size:13px;
 }
 
 #heromast {
@@ -11,28 +12,40 @@ body {
 }
 
 header {
-	background: #333;
+	background: #444;
 	color:#fff;
+ }
+
+
+header nav ul {
+	height:30px;
 }
 
 header nav ul {
 	margin:0;
-	padding:9;
+	padding:0;
 }
 
 header nav ul li {
 	list-style: none;
-	display: inline-block;
-	width: 100pxx;
+	display: block;
+	float: left;
+	height:30px;
+	margin: 0;
+	padding: 0;
+
+	border-right:1px solid #666;
 }
 
 header nav ul li a {
 	color:#fff;
 	text-decoration: none;
 	display: block;
-	padding:0 30px;
+	padding:7px 30px;
+	height:15px;
 }
 header nav ul li a:hover {
 	background: #eee;
 	color:#333;
+	box-shadow: rgba(0,0,0,.3) 0px 2px 0px inset;
 }
