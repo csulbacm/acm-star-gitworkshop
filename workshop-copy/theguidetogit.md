@@ -69,7 +69,7 @@ Install GitHub application.
 
 First Repository
 ----------------
-	You can think of repository like folders on your desktop. 
+	You can think of repository like a box for your code. Git will keep track of this box for any changes and will notify you if there is a change. 
 
 	Add your first repository by clicking on the add button in GitHub.
 
