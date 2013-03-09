@@ -1,40 +1,27 @@
-<?php
-    // Variable Title
-    $title = "Drama";
-?>
-<?php include("inc/top.php"); ?>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Git the Drama</title>
+    <meta charset='utf-8'>
+    <script src='http://html5slides.googlecode.com/svn/trunk/slides.js'></script>
+  </head>
+  
+  <style></style>
 
-<p>
-    This is a test for all things in this world.
-    The lazy dog jump over the schitzophrenic
-    fox, which made coffee for all the animals
-    in the forest.
-</p>
+  <body style='display: none'>
+    <section class='slides layout-regular template-default'>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+        <article>wolololololo</article>
+    </section>
 
-<p>
-    Then the fire nation attacked.
-</p>
-
-<ul>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-</ul>
-
-<?php include("inc/bottom.php"); ?>
+  </body>
+</html>
