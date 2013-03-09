@@ -77,8 +77,11 @@ You can think of repository like a box for your code. Git will keep track of thi
 
 Add your first repository by clicking on the add button in GitHub.
 
+	[insert image here]
+
 First Commit
 ------------
+
 
 Subsequent Commits
 ------------------
