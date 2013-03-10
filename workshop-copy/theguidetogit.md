@@ -75,19 +75,50 @@ First Repository
 ----------------
 You can think of repository like a box for your code. Git will keep track of this box for any changes and will notify you if there is a change. 
 
-Add your first repository by clicking on the add button in GitHub.
+Add your first repository by clicking on the add button in GitHub. 
 
-	[insert image here]
+[insert image here]
+
+Hurray! You have just created your first repo :)
+
+Now add files to your repository and make your first commit.
+
 
 First Commit
 ------------
+When you install GitHub, it automatically makes a directory called "GitHub" probably in your Documents folder unless you specified it to be somewhere else. The GitHub folder will be where all your repositories sit. If you want to add files and folders into your repository, all you do is go to your Documents > GitHub directory and put the files in the repository folder (see picture below). 
 
+[insert image of files being added to empty repository here]
+
+GitHub will recognize a change in the repository and ask you to commit (or in other words, it asks you if you want to update the folder you just added the file to).
+
+[insert image of GitHub recognizing a change in the repository and asking to commit]
+
+It's really important to be short but descriptive when you make commits because you'll likely forget what stuff you changed and what version you might want to go back to. Also it helps when you're collaborating so other people know what changes to look for when they read your code. 
+
+Go ahead and fill out the commit descriptions and click commit. 
+
+Adding this file can be considered your first commit. So congratulations, you have successfully made your first commit! 
+
+COOL TIP
+On GitHub.com, you can comment on others' (and your own) commits.
+
+[image of commenting on a commit]
 
 Subsequent Commits
 ------------------
 
+
+BRANCHING
+
+
+
 Code Collaboration
 ------------------
-Someone starts a repository.
+
+CLONING
+Someone starts a repository. Another person can "clone" the repository onto their local drive.
 That same person can add as many collaborators to the repository.
 Once added to the repository, you can start committing and merging stuff in the repository.
+
+
