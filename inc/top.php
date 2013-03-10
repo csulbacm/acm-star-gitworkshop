@@ -11,6 +11,7 @@
                     }
                 ?>
             </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/960.css">
 		<script src="js/live.js"></script>

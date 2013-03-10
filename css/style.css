@@ -10,6 +10,19 @@ body {
 	font-size:13px;
 }
 
+.image-heavy img {
+	width: 350px;
+	margin:10px;
+	display: inline-block;
+}
+
+.image-heavy  p {
+	line-height: 2em;
+}
+
+.image-heavy  li{
+	line-height: 2em;
+}
 h1, h2, h3, h4 {
 	text-transform: uppercase;
 	color: #4889D2;

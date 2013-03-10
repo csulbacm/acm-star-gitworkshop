@@ -3,8 +3,12 @@
 
 - Go to [github.com](http://github.com) and sign up for an account.
 
+<img src="img/git_sign_up.png" alt="ACM Git Workshop"/>
 
 ### Install GitHub application.
+
+<img src="img/github_home_page.png" alt="ACM Git Workshop"/>
+<img src="img/github_installation.png" alt="ACM Git Workshop"/>
 
 - While still signed in your new GitHub account (on github.com), scroll down to the footer and look for "Applications." Click the link that matches your operating system. For this workshop, we will be installing for Windows operating system. 
 - Welcome Screen will appear (show screenshot).
@@ -16,7 +20,9 @@ You can think of repository like a box for your code. Git will keep track of thi
 
 Add your first repository by clicking on the add button in GitHub. 
 
-[insert image here]
+<img src="img/adding_a_local_repo.png" alt="ACM Git Workshop"/>
+<img src="img/adding_a_local_repo_form.png" alt="ACM Git Workshop"/>
+
 
 Hurray! You have just created your first repo :D
 Now add files to your repository and make your first commit.
@@ -55,6 +61,3 @@ You
 A very important concept of source control is BRANCHING.
 
 Let's say that you have this awesome idea for a new layout but you're not sure how exactly everything is going to work so you want to start a new version from what you have so far (or maybe a completely new version of the project). This is called "branching" because you're branching off and going another direction but you still have the path to go back to where you came from.
-
-
-----------------------------------

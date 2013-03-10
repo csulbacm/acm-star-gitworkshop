@@ -8,7 +8,7 @@ General Info
 - Main operating system: Windows 7
 - Applications Needed:
     - GitHub Client
-    ### - VIM [mandatory]Just kidding. Choose your own preferred text editor.
+    - VIM, just kidding. Choose your own preferred text editor.
 
 
 Goals of this Workshop
