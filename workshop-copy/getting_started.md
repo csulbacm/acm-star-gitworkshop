@@ -35,8 +35,6 @@ When you install GitHub, it automatically makes a directory called "GitHub" prob
 
 In our example above, we named our repository "acm-star-gitworkshop". We are now currently inside the repository directory. You can add files and edit files with your text editor from this directory. 
 
-<img src="img/adding_a_local_repo_form.png" alt="ACM Git Workshop"/>
-
 GitHub will recognize a change in the repository and ask you to commit (or in other words, it asks you if you want to update the folder you just added the file to).
 
 [insert image of GitHub recognizing a change in the repository and asking to commit]
