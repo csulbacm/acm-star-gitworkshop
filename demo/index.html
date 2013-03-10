@@ -1,18 +1,39 @@
+<!-- 
+	This <html> tag is to open the html document.
+-->
 <html>
+	<!-- 
+		Anything in between the '<head>' and '</head>' is for stuff that 
+		doesn't show directly on the page such as javascript code, linking
+		css stylesheets, meta information, title, and etc. 
+	-->
 	<head> 
+		
+		<!-- Title of the Website. Look at the top of the bar of your browser... OoOoO-->
+		<title>Commander #Yolo</title>
+
 		<script> 
 			/* JavaScript function that alerts with specified message when you call the function */
 			function myFunction()
 			{
-
-				alert("Hello World!");
+				alert("Commander #YOLO is pleased.");
 			}
 		</script>
 	</head>
 
-	<body> 
 
-		<!-- when the button is clicked, it will alert 'Hello Word!' -->
-		<button onclick="myFunction()">Click here!</button>
+	<!-- Anything in the '<body>' and '</body>' will show up on the web page -->	
+	<body> 
+		
+		<!-- This is a paragraph tag. Place text in here for now -->
+		<p> Click on the button below to see what Commander #YOLO has to say. </p>
+
+		<!-- 
+			Below is the HTML code for the button that calls the JS function in the above section
+			When the button is clicked, it will alert 'Hello Word!' 
+		-->
+		<button onclick="myFunction()">Sure.</button>
+
+
 	</body>
 </html>
