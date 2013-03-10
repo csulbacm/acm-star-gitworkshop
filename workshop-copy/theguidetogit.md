@@ -107,9 +107,19 @@ On GitHub.com, you can comment on others' (and your own) commits.
 
 Subsequent Commits
 ------------------
+After making your first commit, you're going to want to make more changes to your files and repositories. This is when magic things happen, but magic isn't always beautiful.
 
+Like mentioned before, GitHub will recognize the changes you make in your repositories. What's great about GitHub is that it makes it clear which things were removed, changed, and added. 
+
+[image of changed code - show the color changes]
+
+You can review the changes that were made before you commit. If you see something that shouldn't be there, you can go back to your code and fix what needs to be fixed before you commit. 
 
 BRANCHING
+A very important concept of source control is BRANCHING.
+
+Let's say that you have this awesome idea for a new layout but you're not sure how exactly everything is going to work so you want to start a new version from what you have so far (or maybe a completely new version of the project). This is called "branching" because you're branching off and going another direction but you still have the path to go back to where you came from.
+
 
 
 
