@@ -121,8 +121,6 @@ A very important concept of source control is BRANCHING.
 Let's say that you have this awesome idea for a new layout but you're not sure how exactly everything is going to work so you want to start a new version from what you have so far (or maybe a completely new version of the project). This is called "branching" because you're branching off and going another direction but you still have the path to go back to where you came from.
 
 
-
-
 Code Collaboration
 ------------------
 
