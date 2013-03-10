@@ -5,9 +5,9 @@
             <title>
                 <?php 
                     if(isset($title)) {
-                        echo "acm* workshop: " . $title;    
+                        echo "acm* git workshop: " . $title;    
                     } else {
-                        echo "acm* workshop";
+                        echo "acm* git workshop";
                     }
                 ?>
             </title>
@@ -19,7 +19,7 @@
 	<body>
 		<header>
 			<div id="heromast">
-				<h1><a href="index.php">Git Workshop</a></h1>
+				<h1><a href="index.php">Git in the Habit</a></h1>
 				<h2><a href="index.php">Learn to manage your code</a></h2>
 			</div>
 			<nav>
