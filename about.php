@@ -4,37 +4,19 @@
 ?>
 <?php include("inc/top.php"); ?>
 
-<p>
-    This is a test for all things in this world.
-    The lazy dog jump over the schitzophrenic
-    fox, which made coffee for all the animals
-    in the forest.
-</p>
+<div class="grid_12">
+    <h2 style="font-size:45px;text-align:center">
+        Brought to you by
+    </h2>
+</div>
 
-<p>
-    Then the fire nation attacked.
-</p>
+<div class="grid_6">
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/david.md'); ?>  
+</div>
 
-<ul>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-    <li>WOOOOOOOOOOOOOOOOOOOOO</li>
-</ul>
+<div class="grid_6">
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/david.md'); ?>  
+</div>
+
 
 <?php include("inc/bottom.php"); ?>

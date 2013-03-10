@@ -32,8 +32,7 @@ h1, h2, h3, h4 {
 .wrapper {
 	background: #fff;
 	margin: 0 auto;
-	width: 940px;
-    padding: 0 10px;
+	width: 960px;
 	min-height: 100px;
 }
 
@@ -129,7 +128,7 @@ header nav ul li a {
 	
 	background: #4889D2;
 	color:#fff;
-	border: 1px solid #666;
+	border: 1px solid #4889D2;
 }
 header nav ul li a:hover {
 	border: 1px solid #ddd;
