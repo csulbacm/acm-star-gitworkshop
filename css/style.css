@@ -35,6 +35,19 @@ h1, h2, h3, h4 {
 	color: #fff;
 } 
 
+#heromast h1 a, 
+#heromast h2 a {
+	color: #fff;
+	text-decoration: none;
+	padding:5px 20px;
+} 
+
+#heromast h1 a:hover, 
+#heromast h2 a:hover {
+	color: #fff;
+	background: #333;
+} 
+
 #heromast h1 {
 	font-family: "Roboto", sans-serif;
 	text-align: center;
@@ -48,12 +61,6 @@ h1, h2, h3, h4 {
 	text-shadow:rgba(0,0,0,.3) 0px 2px 0px;
 }
 
-.body-content {
-	background: #333;
-	min-height: 100px;
-	padding: 20px 0;
-	margin: 0;
-}
 
 #heromast h2 {
 	margin: 0px 0 0 0;
@@ -118,6 +125,12 @@ header nav ul li a:hover {
 	box-shadow: rgba(0,0,0,.3) 0px 2px 3px inset;
 }
 
+.body-content {
+	background: #333;
+	min-height: 100px;
+	padding: 20px 0;
+	margin: 0;
+}
 
 footer {
 	background: #fff;
@@ -125,4 +138,9 @@ footer {
 	padding:10px 0;
 	min-height: 100px;
 	text-align: center;
+}
+
+@media print {
+      nav { display: none; }
+      footer {display:  none;}
 }

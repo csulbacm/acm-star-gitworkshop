@@ -18,8 +18,8 @@
 	<body>
 		<header>
 			<div id="heromast">
-				<h1>Git Workshop</h1>
-				<h2>Learn to manage your code</h2>
+				<h1><a href="index.php">Git Workshop</a></h1>
+				<h2><a href="index.php">Learn to manage your code</a></h2>
 			</div>
 			<nav>
 				<ul>
@@ -27,7 +27,6 @@
                     <li><a href="guide.php">Guide</a></li>
 					<li><a href="drama.php">The Drama</a></li>
 					<li><a href="about.php">About</a></li>
-
 				</ul>
 			</nav>
 		</header>
