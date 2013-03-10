@@ -1,3 +1,3 @@
 ## David Nuon
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi ducimus quidem sapiente quis odio facilis optio doloremque molestias mollitia temporibus officia dolores dignissimos magni soluta consequuntur dicta voluptate ab ratione.
+David is a 2nd year at California State University, Long Beach (CSULB). He is the Chair of Association for Computing Machinery (ACM) at CSULB. David is a front-end developer, specializing in web apps he dabbles in Haskell. One of his goals in life is to create tools for developers to make their lives easier. If you hear someone say "Duuude..." it's probably David.

@@ -1,3 +1,3 @@
 ## Julia Lai
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum provident commodi aliquid iste sed repellendus quae ipsam dignissimos quasi aspernatur iusto accusamus pariatur ratione suscipit assumenda eveniet nemo vero voluptates.
+Julia is a 4th year Computer Science major at California State University, Long Beach. She is the Chair of ACM SIGWEB (Association for Computing Machinery Special Interest Group Web). She enjoys working with front-end development and is pretty good with HTML and CSS. She hopes that one day she will work for a successful web-based company, managing some part of the website and make enough money to afford any Apple product she wants. Julia is also a fried chicken connoisseur.
