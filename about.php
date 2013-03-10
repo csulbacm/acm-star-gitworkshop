@@ -11,7 +11,7 @@
 </div>
 
 <div class="grid_6">
-    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/david.md'); ?>  
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/julia.md'); ?>  
 </div>
 
 <div class="grid_6">
