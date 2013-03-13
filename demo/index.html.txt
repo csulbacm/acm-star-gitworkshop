@@ -11,16 +11,14 @@
 
 		<!-- Title of the Website. Look at the top of the bar of your browser... OoOoO-->
 		<title>Commander #Yolo</title>
-		
-		<!-- Linking Open Sans from Google Fonts. -->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+
 		<!-- 
 			This is one way you can incorporate CSS with your HTML. It's called EMBEDDED
 			CSS. Not the best way to do it though but done for simplicity's sake.
 		-->
 		<style type="text/css">
 			body {
-				font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial;
+				font-family: 'Open Sans', 'Helvetica Neue', Helvetica;
 				text-align: center;
 			}
 		</style>
@@ -53,7 +51,6 @@
 		-->
 		<button onclick="myFunction()">Sure.</button>
 
-		<a href="index.html.txt" target="_blank">Download the code for this here.</a>
 
 	</body>
 </html>
