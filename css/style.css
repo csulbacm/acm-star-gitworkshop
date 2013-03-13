@@ -64,7 +64,7 @@ h1, h2, h3, h4 {
 	font-family: "Roboto", sans-serif;
 	text-align: center;
 	font-size:70px;
-	text-transform: uppercase;;
+	text-transform: uppercase;
 	font-style: italic;
 	
 	padding: 0;
@@ -161,17 +161,28 @@ footer {
 .quick-guide h1 {
 	text-align: center;
 	font-family: 'Roboto';
-	color:#888;
 	font-size:60px;
-	padding: 10px 0;
+	padding: 15px 0;
 	margin: 0;
+	border-bottom: 1px solid #ddd;
 }
 
 .quick-guide h2 {
+	text-align: center;s
+	margin: 0;
+	font-size:30px;
+	padding: 0 0 20px 0;
+	line-height: 20px;
+	border-bottom: 1px solid #ddd;
+}
+
+.quick-guide h3 {
 	text-align: center;
 	color:#888;
 	margin: 0;
-	padding: 5px 0;
+	font-size:25px;
+	padding: 15px 0;
+	text-shadow:none;
 }
 
 .quick-guide .download {
@@ -182,7 +193,13 @@ footer {
 	display: block;
 	padding:15px 0;
 	margin: 10px 30px;
-	font-size:20px;
+	font-size:19px;
 	color:#fff;
 	background: #333;
+	border: 1px solid #fff;
+}
+.quick-guide .download a:hover {
+	background:#ddd;
+	color: #333;
+	border: 1px solid #333;
 }

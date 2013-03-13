@@ -11,10 +11,18 @@
 	</div>
 
 	<div class="grid_12">
-		<h2>Download Git</h2>
+		<h3>1. Sign up for GitHub</h3>
+	</div>
+	<div class="grid_12 download"><a href="#" target="_blank">Github.com</a></div>
+	
+
+	<div class="grid_12">
+		<h3>2. Download Git</h3>
 	</div>
 	<div class="grid_6 download"><a href="#">Download for Windows</a></div>
-	<div class="grid_6 download"><a href="#">Download for Windows</a></div>
+	<div class="grid_6 download"><a href="#">Download for Mac</a></div>
+
+
 </div>
     
 <?php include("inc/bottom.php"); ?>
