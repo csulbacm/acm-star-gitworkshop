@@ -188,7 +188,7 @@ footer {
 .quick-guide .download {
 	text-align: center;
 }
-.quick-guide .download a {
+.quick-guide .download > a {
 	text-align: center;
 	display: block;
 	padding:15px 0;
@@ -198,7 +198,7 @@ footer {
 	background: #333;
 	border: 1px solid #fff;
 }
-.quick-guide .download a:hover {
+.quick-guide .download > a:hover {
 	background:#ddd;
 	color: #333;
 	border: 1px solid #333;

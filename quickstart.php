@@ -45,8 +45,9 @@
 
     <div class="grid_12">
         <h3>3. Make your first Repo</h3>
+        <img src="img/add_repos.png" alt="Adding a new repository">
         <ol>
-            <li>Go to the GitHub GUI Client application and click the "+add" button on the top (this is on Windows.. If you're on Mac, just find the add repository button somewhere).</li>
+            <li>Go to the GitHub GUI Client application and click the "+add" button on the top.</li>
             <li>Fill out the repository information. Think of this like you're making a new folder. Make sure to push the repository onto github so it's uploaded onto github's servers.</li>
             <li>Make sure you remember where you are saving the repositories on your local machine. This is where you will put your files to upload eventually.</li>
             <li>You should see the new repository under "local repository"</li>
@@ -57,13 +58,23 @@
     <div class="grid_12">
         <h3>4. Your first commit</h3>
         <ol>
-            <li>Download the html file on davidnuon.com/git/demo</li>
+            <li>Download the html file <a href="http://davidnuon.com/git/demo" target="_blank">here.</a></li>
             <li>Put the html file that you downloaded into the local repository located wherever you created your repository at (it's usually defaulted to be in your Documents/GitHub folder).</li>
             <li>Go back to GitHub Client Application and double click your repository. It should say "Uncommitted Changes." </li>
             <li>Describe your commit and click commit.</li>
-
         </ol>
     </div>
+
+    <div class="grid_12">
+        <h3>5. Go forth and conquer</h3>
+        <ol>    
+            <li>Any time you make a change to a file, be sure to make another commit</li>
+            <li>Make sure to sync to upload it to your GitHub account</li>
+            <li>Play around with this, and see what GitHub hwas to offer!</li>
+        </ol>
+    </div>
+
+
 </div>
     
 <?php include("inc/bottom.php"); ?>
