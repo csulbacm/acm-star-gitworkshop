@@ -1,13 +1,15 @@
 <br>
-
-## Getting Started
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda esse explicabo animi min
+<br>
+<br>
 
 ## Get the Drama
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem repellat quam dignissimos 
+Learn the story of how a developer <a href="drama.php">discovers the wonders source control. </a>
+
+## Getting Started
+
+Get started right away with our <a href="quickstart.php">quick start guide.</a>
 
 ## Learn about the people behind this
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque nesciunt officia magnam corrupti
+This was <a href="about.php">brought to you by</a> Julia Lai and David Nuon.
