@@ -43,6 +43,27 @@
             There's also an Eclipse plugin.
         </a>
 
+    <div class="grid_12">
+        <h3>3. Make your first Repo</h3>
+        <ol>
+            <li>Go to the GitHub GUI Client application and click the "+add" button on the top (this is on Windows.. If you're on Mac, just find the add repository button somewhere).</li>
+            <li>Fill out the repository information. Think of this like you're making a new folder. Make sure to push the repository onto github so it's uploaded onto github's servers.</li>
+            <li>Make sure you remember where you are saving the repositories on your local machine. This is where you will put your files to upload eventually.</li>
+            <li>You should see the new repository under "local repository"</li>
+            
+        </ol>
+    </div>
+
+    <div class="grid_12">
+        <h3>4. Your first commit</h3>
+        <ol>
+            <li>Download the html file on davidnuon.com/git/demo</li>
+            <li>Put the html file that you downloaded into the local repository located wherever you created your repository at (it's usually defaulted to be in your Documents/GitHub folder).</li>
+            <li>Go back to GitHub Client Application and double click your repository. It should say "Uncommitted Changes." </li>
+            <li>Describe your commit and click commit.</li>
+
+        </ol>
+    </div>
 </div>
     
 <?php include("inc/bottom.php"); ?>
