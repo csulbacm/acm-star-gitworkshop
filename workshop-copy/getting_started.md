@@ -31,7 +31,9 @@ Now add files to your repository and make your first commit.
 ### First Commit
 When you install GitHub, it automatically makes a directory called "GitHub" probably in your Documents folder unless you specified it to be somewhere else. The GitHub folder will be where all your repositories sit. If you want to add files and folders into your repository, all you do is go to your Documents > GitHub directory and put the files in the repository folder (see picture below). 
 
-[insert image of files being added to empty repository here]
+<img src="img/github-local-repository.png" alt="ACM Git Workshop"/>
+
+In our example above, we named our repository "acm-star-gitworkshop". We are now currently inside the repository directory. You can add files and edit files with your text editor from this directory. 
 
 GitHub will recognize a change in the repository and ask you to commit (or in other words, it asks you if you want to update the folder you just added the file to).
 
