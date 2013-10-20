@@ -11,15 +11,15 @@
 	<body>
 		<header>
 			<div id="heromast">
-				<h1><a href="index.php.html">Git in <br> &nbsp;the Habit</a></h1>
-				<h2><a href="index.php.html">Learn to manage your code</a></h2>
+				<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
+				<h2><a href="index.php">Learn to manage your code</a></h2>
 			</div>
 			<nav>
 				<ul>
-					<li><a href="index.php.html">Home</a></li>
-                    <li><a href="quickstart.php.html">Quickstart</a></li>
-                    <li><a href="drama.php.html">The Drama</a></li>
-					<li><a href="about.php.html">About</a></li>
+					<li><a href="index.php">Home</a></li>
+                    <li><a href="quickstart.php">Quickstart</a></li>
+                    <li><a href="drama.php">The Drama</a></li>
+					<li><a href="about.php">About</a></li>
 				</ul>
 			</nav>
 		</header>
@@ -42,15 +42,15 @@
 
 <h2>Get the Drama</h2>
 
-<p>Learn the story of how a developer <a href="drama.php.html">discovers the wonders source control. </a></p>
+<p>Learn the story of how a developer <a href="drama.php">discovers the wonders source control. </a></p>
 
 <h2>Getting Started</h2>
 
-<p>Get started right away with our <a href="quickstart.php.html">quick start guide.</a></p>
+<p>Get started right away with our <a href="quickstart.php">quick start guide.</a></p>
 
 <h2>Learn about the people behind this</h2>
 
-<p>This was <a href="about.php.html">brought to you by</a> Julia Lai and David Nuon.</p>
+<p>This was <a href="about.php">brought to you by</a> Julia Lai and David Nuon.</p>
 	
 </div>
 
