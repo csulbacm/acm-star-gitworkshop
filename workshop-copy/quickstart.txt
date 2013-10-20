@@ -1,0 +1,22 @@
+Quick Start Guide for Git Workshop
+
+Getting Started:
+1) Register for a GitHub account at github.com
+2) Install GitHub GUI. You can find this one your homepage after you login to your account at the bottom of the page under "Applications"
+3) Set up your account information once you've first installed GitHub.
+
+Making your first local repository (repo):
+1) Go to the GitHub GUI Client application and click the "+add" button on the top (this is on Windows.. If you're on Mac, just find the add repository button somewhere).
+2) Fill out the repository information. Think of this like you're making a new folder. Make sure to push the repository onto github so it's uploaded onto github's servers.
+3) Make sure you remember where you are saving the repositories on your local machine. This is where you will put your files to upload eventually.
+4) You should see the new repository under "local repository"
+
+Yay you made it! 
+
+Making your first commit:
+1) Download the html file on davidnuon.com/git/demo
+2) Put the html file that you downloaded into the local repository located wherever you created your repository at (it's usually defaulted to be in your Documents/GitHub folder).
+3) Go back to GitHub Client Application and double click your repository. It should say "Uncommitted Changes." 
+4) Describe your commit and click commit.
+
+Yay you made it again!
