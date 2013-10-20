@@ -19,7 +19,7 @@
 	<body>
 		<header>
 			<div id="heromast">
-				<h1><a href="index.php">Git in the Habit</a></h1>
+				<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
 				<h2><a href="index.php">Learn to manage your code</a></h2>
 			</div>
 			<nav>
