@@ -33,7 +33,7 @@
 							<li><a href="signup.php">Workshop Sign-Up</a></li>
                             <li><a href="prereq.php">Requirements</a></li>
                             <li><a href="gitcli.php">GitCommandLine</a></li>
-                            <li><a href="about.php">About</a></li>
+                            <li><a href="about.php">Info</a></li>
 						</ul>
 					</div>				
 				</nav>
