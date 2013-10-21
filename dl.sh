@@ -1,1 +1,1 @@
-wget --mirror -w 2 -p --html-extension --convert-links -P  `pwd` http://localhost:8888/git/
+wget --mirror -p --html-extension --convert-links -P  `pwd` $1
