@@ -40,7 +40,7 @@ h1, h2, h3, h4 {
 }
 
 #heromast {
-	height:230px;
+
 	background:url('../img/bg.jpg') bottom center #87CEEB;
 
 }
@@ -88,16 +88,10 @@ header {
 	color:#fff;
  }
 
-nav {
-	background: #eee;
-	border-top: 1px solid #888;
-	border-top: 1px #ddd solid;
-	padding: 10px 0;
-}
-
-
-header nav ul {
-	height:35px;
+header nav {
+	padding: 12px 0;
+	margin: 20px 0 0 0;
+	border-top: rgba(0, 0, 200, .2) solid 1px;
 }
 
 header nav ul {
@@ -109,9 +103,6 @@ header nav ul li {
 	list-style: none;
 	display: inline-block;
 
-
-	height:30px;
-
 	margin: 0;
 	padding: 0;
 
@@ -120,19 +111,24 @@ header nav ul li {
 header nav ul li a {
 	text-decoration: none;
 	display: block;
-	padding:5px 30px;
+	padding:10px 30px;
 	margin:5px 10px;
 	height:14px;
 	line-height: 14px;
 	
-	background: #333;
+	text-transform: uppercase;
+	border-radius: 60px;
+	background: rgba(20, 50, 120, .3);
 	color:#fff;
+
+	-webkit-transition: all .1s ease-in;
+	   -moz-transition: all .1s ease-in;
+	    -ms-transition: all .1s ease-in;
+	     -o-transition: all .1s ease-in;
+	        transition: all .1s ease-in;
 }
 header nav ul li a:hover {
-	border: 1px solid #ddd;
-	background: #eee;
-	color:#333;
-	box-shadow: rgba(0,0,0,.3) 0px 2px 3px inset;
+	background: rgba(20, 50, 120, .5);
 }
 
 .body-content {

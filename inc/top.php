@@ -19,17 +19,23 @@
 	<body>
 		<header>
 			<div id="heromast">
-				<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
-				<h2><a href="index.php">Learn to manage your code</a></h2>
+				<div class="container_12">
+					<div class="grid_12">
+						<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
+				<h2><a href="index.php">26th October 2013</a></h2>
+					</div>
+				</div>
+
+				<nav>
+					<div class="container_12">
+							<ul class="grid_12">
+							<li><a href="index.php">Home</a></li>
+		                    <li><a href="prereq.php">Requirements</a></li>
+		                    <li><a href="about.php">About</a></li>
+						</ul>
+					</div>				
+				</nav>
 			</div>
-			<nav>
-				<ul>
-					<li><a href="index.php">Home</a></li>
-                    <li><a href="quickstart.php">Quickstart</a></li>
-                    <li><a href="drama.php">The Drama</a></li>
-					<li><a href="about.php">About</a></li>
-				</ul>
-			</nav>
 		</header>
 
 		<div class="body-content">
