@@ -9,8 +9,14 @@ body {
 	margin: 0;
 	padding:0;
 	width: 100%;
-	font-size:13px;
+	font-size:15px;
 }
+
+p {
+	line-height: 2em;
+}
+
+
 
 .call_to_action {
 	margin-bottom: 40px;

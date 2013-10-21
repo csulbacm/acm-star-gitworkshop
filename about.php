@@ -21,32 +21,47 @@
 </div>
 
 
-<div class="grid_6">
+<div class="grid_4">
     <?php render_markdown(dirname(__FILE__) . '/workshop-copy/julia.md'); ?>  
 </div>
 
-<div class="grid_6">
+<div class="grid_4">
     <?php render_markdown(dirname(__FILE__) . '/workshop-copy/david.md'); ?>  
 </div>
 
-<div class="clear"> </div>
-
-<div class="grid_6">
+<div class="grid_4">
     <?php render_markdown(dirname(__FILE__) . '/workshop-copy/steven.md'); ?>  
 </div>
 
-<div class="grid_6">
-    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/jake.md'); ?>  
+<div class="grid_12">
+    <div class="big-call">
+        Big Thanks to our Volunteers!
+    </div>
 </div>
 
-<div class="clear"> </div>
+<div style="text-align:center;">
+    
+    <div class="grid_4">
+        <?php render_markdown(dirname(__FILE__) . '/workshop-copy/jake.md'); ?>  
+        <br>
+        <br>
+        <br>
+    </div>
 
-<div class="grid_6">
-    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/brian.md'); ?>  
-</div>
+    <div class="grid_4">
+        <?php render_markdown(dirname(__FILE__) . '/workshop-copy/brian.md'); ?>  
+        <br>
+        <br>
+        <br>
+    </div>
 
-<div class="grid_6">
-    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/joe.md'); ?>  
+    <div class="grid_4">
+        <?php render_markdown(dirname(__FILE__) . '/workshop-copy/joe.md'); ?>  
+        <br>
+        <br>
+        <br>
+    </div>
+
 </div>
 
 <?php include("inc/bottom.php"); ?>

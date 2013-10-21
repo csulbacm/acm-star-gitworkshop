@@ -1,3 +1,5 @@
 ## Steven Le
 
-Chambray Tonx keytar Portland, actually High Life Truffaut ex. Narwhal odio occaecat Thundercats. Bushwick fanny pack cupidatat, chillwave esse Thundercats incididunt. Fap chambray tempor mixtape magna farm-to-table gastropub, in chia nisi 8-bit kogi skateboard cray. Umami keytar Brooklyn, beard Wes Anderson cred gastropub DIY forage Intelligentsia PBR nulla. Roof party dolore craft beer laborum. Blog plaid hella fashion axe, selvage 90's American Apparel swag deserunt readymade sapiente irure small batch.
+Steven is a Computer Computer major at California State University, Long Beach (CSULB). 
+
+He is the President of the Embedded Application Technology Society (EAT) at CSULB
