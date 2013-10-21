@@ -4,16 +4,17 @@
 				</div>
 
 		<footer>
-			<div class="container_12">
-				<div class="grid_4">
+			<h2 class="big-call">Brought to you by:</h2>
+			<div class="logo-container">
+				<a class="footer-logo" href="http://csulb.acm.org">
 					<img src="img/logos/acmlogo.png" alt="CSULB ACM Logo">
-				</div>
-				<div class="grid_4" >
-					<img src="img/logos/sigweblogo.png" alt="CSULB SIGWEB Logo">
-				</div>
-				<div class="grid_4" >
+				</a>
+				<a class="footer-logo" href="http://www.csulbsigweb.org">
+					<img src="img/logos/sigweblogo.png" alt="CSULB ACM Logo">
+				</a>
+				<a class="footer-logo" href="http://www.eatsociety.org">
 					<img src="img/logos/eatlogo.png" alt="CSULB EAT Logo">
-				</div>
+				</a>
 			</div>
 		</footer>
 
