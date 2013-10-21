@@ -35,4 +35,18 @@
     <?php render_markdown(dirname(__FILE__) . '/workshop-copy/steven.md'); ?>  
 </div>
 
+<div class="grid_6">
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/jake.md'); ?>  
+</div>
+
+<div class="clear"> </div>
+
+<div class="grid_6">
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/brian.md'); ?>  
+</div>
+
+<div class="grid_6">
+    <?php render_markdown(dirname(__FILE__) . '/workshop-copy/joe.md'); ?>  
+</div>
+
 <?php include("inc/bottom.php"); ?>
