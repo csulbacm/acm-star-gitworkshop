@@ -284,3 +284,7 @@ footer {
 	background: #ddd;
 	padding: 16px 20px;
 }
+
+.code-section:last-child {
+	border: 0;
+}
