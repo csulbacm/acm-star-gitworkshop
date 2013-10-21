@@ -26,6 +26,7 @@
 				<ul>
 					<li><a href="index.php">Home</a></li>
                     <li><a href="quickstart.php">Quickstart</a></li>
+                    <li><a href="gitcli.php">GitCli</a></li>
                     <li><a href="drama.php">The Drama</a></li>
 					<li><a href="about.php">About</a></li>
 				</ul>
