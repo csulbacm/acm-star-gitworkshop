@@ -205,6 +205,9 @@ footer {
 	line-height: 20px;
 	border-bottom: 1px solid #ddd;
 }
+.quick-guide p {
+	font-size:1.5em;
+}
 
 .quick-guide h3 {
 	text-align: center;

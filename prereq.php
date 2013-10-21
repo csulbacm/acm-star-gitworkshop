@@ -10,6 +10,15 @@
 		<h2>Please do the following before attending</h2>
 	</div>
 
+
+    <div class="grid_12">
+        <h3>0. What to bring</h3>
+    </div>
+    <div class="grid_12 download">
+        <p>Please bring a laptop. We unfortunately will not be able to provide any.</p>
+    </div>
+    
+
 	<div class="grid_12">
 		<h3>1. Sign up for GitHub</h3>
 	</div>
