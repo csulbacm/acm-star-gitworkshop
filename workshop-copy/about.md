@@ -7,3 +7,13 @@ This year, we're going to spice things up a bit and learn git from the command-l
 ## What is version control and why should I care?
 
 Version control is a system that keeps track of changes to a file or a set of files so that you can refer back to specific versions later. This is especially helpful for code collaboration (imagine Google Docs on steroids) but also butt-saver if you ever royally screw up your code and wish to go back in time when it was actually working...
+
+## Workshop Tentative Agenda
+
+1. Introduction to Version Control	(includes setting up Git)
+2. Demo / Git Walkthrough					
+	- Linux command line/ Git bash basics		
+	- Branching and merging				
+	- Common problems
+3. Collaborating with Git (if time permits)
+4. QA (if time permits)
