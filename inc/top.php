@@ -30,6 +30,7 @@
 					<div class="container_12">
 							<ul class="grid_12">
 							<li><a href="index.php">Home</a></li>
+							<li><a href="signup.php">Workshop Sign-Up</a></li>
 		                    <li><a href="prereq.php">Requirements</a></li>
 		                    <li><a href="about.php">About</a></li>
 						</ul>
