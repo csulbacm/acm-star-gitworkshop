@@ -22,7 +22,7 @@
 				<div class="container_12">
 					<div class="grid_5">
 						<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
-				<h2><a href="index.php">26th October 2013</a></h2>
+				<h2><a href="index.php">Version Control Workshop</a></h2>
 					</div>
 
 					<div class="grid_4 push_3 event-details">
