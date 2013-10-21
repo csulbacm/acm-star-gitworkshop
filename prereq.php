@@ -71,6 +71,17 @@
         <a href="#">vim</a>
     </div>
 
+    <div class="grid_12 download">
+        <br>
+        <br>
+        <h3>4. Please review the following commands</h3>
+        <a href="./gitcli.php">Shell Commands</a>
+        <br>
+        <br>        <br>
+        <br>        <br>
+        <br>
+    </div>
+
 
 </div>
     

@@ -79,19 +79,5 @@ here is some dog stuff
 	<pre>$ <code>curl davidnuon.com/resume | sh</code></pre>
 </p>
 </section>
-
-<a href="#pwd">pwd</a>
-<br>
-<a href="#ls">ls</a>
-<br>
-<a href="#cd">cd</a>
-<br>
-<a href="#mkdir">mkdir</a>
-<br>
-<a href="#touch">touch</a>
-<br>
-<a href="#cat">cat</a>
-<br>
-<a href="#curl">curl</a>
     
 <?php include("inc/bottom.php"); ?>
