@@ -262,3 +262,22 @@ footer {
 	color: #fff;
 	background: rgba(80, 110, 160, .9);
 }
+
+.code-section {
+	font-size:1.2em;
+	border-bottom: 1px solid #333;
+}
+
+.code-section code:first-child {
+	color:#fff;
+	background: #666;
+	padding: 3px 7px;
+	font-size: .9em;
+	border-radius: 6px;
+	margin:0 5px;
+}
+
+.code-section pre {
+	background: #ddd;
+	padding: 16px 20px;
+}
