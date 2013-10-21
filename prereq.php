@@ -77,7 +77,7 @@
     
     <div class="grid_4 download" style="text-align:center">
         <h2>Linux</h2>
-        <a href="#">vim</a>
+        <a href="http://www.vim.org/" target="_blank">vim</a>
     </div>
 
     <div class="grid_12 download">
