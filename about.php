@@ -39,29 +39,27 @@
     </div>
 </div>
 
-<div style="text-align:center;">
     
-    <div class="grid_4">
+    <div class="grid_12">
         <?php render_markdown(dirname(__FILE__) . '/workshop-copy/jake.md'); ?>  
         <br>
         <br>
         <br>
     </div>
 
-    <div class="grid_4">
+    <div class="grid_12">
         <?php render_markdown(dirname(__FILE__) . '/workshop-copy/brian.md'); ?>  
         <br>
         <br>
         <br>
     </div>
 
-    <div class="grid_4">
+    <div class="grid_12">
         <?php render_markdown(dirname(__FILE__) . '/workshop-copy/joe.md'); ?>  
         <br>
         <br>
         <br>
     </div>
 
-</div>
 
 <?php include("inc/bottom.php"); ?>
