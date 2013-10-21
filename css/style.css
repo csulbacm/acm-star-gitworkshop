@@ -4,12 +4,38 @@
  
 
 body {
-	background: #fff;
+	background: #eee;
 	font-family: "Raleway", sans-serif;
 	margin: 0;
 	padding:0;
 	width: 100%;
 	font-size:13px;
+}
+
+.call_to_action {
+	margin-bottom: 40px;
+}
+
+.call_to_action h3 {
+	
+	font-size:2.3em;
+	text-align: center;
+	font-weight: normal;
+	padding: 10px 0;
+	margin: 0;
+}
+
+.call_to_action p {
+	font-size: 1.4em;
+	line-height: 2em;
+}
+
+.big-call {
+	text-align: center;
+	font-size:3em;
+
+	padding:30px 0;
+	font-weight: normal;
 }
 
 .image-heavy img {
@@ -40,8 +66,8 @@ h1, h2, h3, h4 {
 }
 
 #heromast {
-
 	background:url('../img/bg.jpg') bottom center #87CEEB;
+	background: #5AAEF2;
 
 }
 
@@ -108,7 +134,8 @@ header nav ul li {
 
 }
 
-header nav ul li a {
+header nav ul li a,
+.call_to_action a {
 	text-decoration: none;
 	display: block;
 	padding:10px 30px;
@@ -127,14 +154,15 @@ header nav ul li a {
 	     -o-transition: all .1s ease-in;
 	        transition: all .1s ease-in;
 }
-header nav ul li a:hover {
+header nav ul li a:hover,
+.call_to_action a {
 	background: rgba(20, 50, 120, .5);
 }
 
 .body-content {
 	background: #fff;
 	min-height: 100px;
-	padding: 20px 0 50px 0;
+	padding: 20px 0 0 0;
 	margin: 0;
 	box-shadow: rgba(0,0,0,.3) 0px 0px 13px inset;
 }
@@ -181,10 +209,10 @@ footer {
 	text-shadow:none;
 }
 
-.quick-guide .download {
+.download {
 	text-align: center;
 }
-.quick-guide .download > a {
+.download > a {
 	text-align: center;
 	display: block;
 	padding:15px 0;
@@ -194,15 +222,37 @@ footer {
 	background: #333;
 	border: 1px solid #fff;
 }
-.quick-guide .download > a:hover {
+.download > a:hover {
 	background:#ddd;
 	color: #333;
 	border: 1px solid #333;
 }
+
 
 .quick-guide ol li {
 	font-size: 16px;
 	margin:20px 0;
 	padding:0;
 	text-align: left;
+}
+
+
+.call_to_action a {
+	background: rgba(20, 50, 120, .7);
+	width: 50%;
+	margin: 0 auto;
+	border: 0;
+	font-size: 1rem;
+}
+
+.call_to_action p {
+	width: 80%;
+	margin:20px auto;
+	height: 110px;
+}
+
+.call_to_action a:hover {
+	border: 0;
+	color: #fff;
+	background: rgba(80, 110, 160, .9);
 }
