@@ -5,9 +5,9 @@
             <title>
                 <?php 
                     if(isset($title)) {
-                        echo "acm* git workshop: " . $title;    
+                        echo "acm* + eat git workshop: " . $title;    
                     } else {
-                        echo "acm* git workshop";
+                        echo "acm* + eat git workshop";
                     }
                 ?>
             </title>
@@ -20,9 +20,22 @@
 		<header>
 			<div id="heromast">
 				<div class="container_12">
-					<div class="grid_12">
+					<div class="grid_5">
 						<h1><a href="index.php">Git in <br> &nbsp;the Habit</a></h1>
 				<h2><a href="index.php">26th October 2013</a></h2>
+					</div>
+
+					<div class="grid_4 push_3 event-details">
+						<ul>
+							<li>
+								<strong>Saturday,</strong>
+							</li>
+							<li>
+								<strong>October 26th 2013</strong>
+							</li>
+							<li>10:00AM &mdash; 12:00PM</li>
+							<li>ECS&mdash;304</li>
+						</ul>
 					</div>
 				</div>
 
