@@ -1,0 +1,4 @@
+curl http://csulbacm.github.io/acm-star-gitworkshop/workshop_assets/960.css > 960.css
+curl http://csulbacm.github.io/acm-star-gitworkshop/workshop_assets/avatar.jpg > avatar.jpg
+curl http://csulbacm.github.io/acm-star-gitworkshop/workshop_assets/index.html > index.html
+curl http://csulbacm.github.io/acm-star-gitworkshop/workshop_assets/style.css > style.css
