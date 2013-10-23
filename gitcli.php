@@ -76,7 +76,7 @@ here is some dog stuff
 <section class="code-section" id="curl">
 <p>The command <code>curl</code> in basic terms downloads files from the internet. In the context of this workshop we will be using:</p>
 <p>
-	<pre>$ <code>curl davidnuon.com/resume | sh</code></pre>
+	<pre>$ <code>curl csulbacm.github.io/acm-star-gitworkshop/resume | sh</code></pre>
 </p>
 </section>
     
