@@ -1,0 +1,24 @@
+# Sign up for github
+# Make a new repository for username.github.io
+cd ~
+mkdir .ssh
+cd .ssh
+rsa-keygen
+# Copy contents of id_rsa.pub to clipboard
+cat id_rsa.pub | pbcopy # OS X
+cat id_rsa.pub | xclip -selection c # Linux
+notepad id_rsa.pub # Windows
+# Add key to github
+pwd
+mkdir repos
+cd repos
+pwd
+git clone (repo clone url)
+git config --global user.name "Some Dude"
+git config --global user.email "me@here.com"
+curl csulbacm.github.io/acm-star-gitworkshop/resume | sh
+# View files in file manager
+explorer . # open . in os x
+git add . 
+git commit -m "First commit"
+git push origin master
