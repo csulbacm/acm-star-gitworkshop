@@ -45,9 +45,9 @@
 							<li><a href="index.php">Home</a></li>
 							<li><a href="signup.php">Sign In</a></li>
 							<li><a href="tutorial.php">Tutorial</a></li>
+							<li><a href="gitcli.php">bash</a></li>
                             <li><a href="prereq.php">Requirements</a></li>
                             <li><a href="about.php">Info</a></li>
-                            <li><a href="drama.html">Deck</a></li>
 						</ul>
 					</div>				
 				</nav>
