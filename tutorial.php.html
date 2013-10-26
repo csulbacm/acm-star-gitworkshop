@@ -2,7 +2,7 @@
 <html>
 	<head>
             <title>
-                acm* + eat git workshop: Sign Up            </title>
+                acm* + eat git workshop: Guide            </title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="css/960.css">
@@ -50,19 +50,59 @@
 			<div class="wrapper">
 			<article class="container_12">
 
-<div class="grid_12">
-    <h2 style="font-size:45px;text-align:center">
-        Workshop Sign-Up
-    </h2>
+<div class="grid_12 tutorial">
+    <br>
+	<h1>Let's set some stuff up</h1>
+
+<ul>
+<li><a href="prereq.php.html">Go over requirements</a></li>
+<li><a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys and setting it up on github</a></li>
+<li><a href="gitcli.php.html">Bash Shell Review</a></li>
+</ul>
+
+<h1>Make a new repository for username.github.io</h1>
+
+<p><img src="img/resu-repos.png" alt="Alt text" /></p>
+
+<h1>Configure your identity</h1>
+
+<pre><code>git config --global user.name "Some Dude"
+git config --global user.email "me@here.com"
+</code></pre>
+
+<h1>Let's make a folder for our code repositories</h1>
+
+<pre><code>cd ~
+mkdir repos
+cd repos
+</code></pre>
+
+<h1>Clone your repository and go into it</h1>
+
+<pre><code>git clone https://github.com/username/username.github.io.git
+cd username.github.io
+</code></pre>
+
+<h1>Get sample files</h1>
+
+<pre><code>curl csulbacm.github.io/acm-star-gitworkshop/resume | sh
+</code></pre>
+
+<h1>View files in file manager</h1>
+
+<pre><code>explorer .  # Windows
+open .      # OS X
+</code></pre>
+
+<h1>Push it to GitHib</h1>
+
+<pre><code>git add . 
+git commit -m "First commit"
+git push origin master
+</code></pre>
+
 </div>
-
-<div class="grid_12">
-    <iframe src="https://docs.google.com/forms/d/1tbHVgtWiOvaHhgW4UKoZKik0UZO1o--oA24Hhqx3ouA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</div>
-
-
-
-
+    
 
 			</article>
 		</div>
