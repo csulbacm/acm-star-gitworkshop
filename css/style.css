@@ -325,3 +325,12 @@ footer {
 .logo-container a:hover {
 	opacity: 1;
 }
+
+.tutorial pre {
+	background: #333;
+	color:#fff;
+
+	padding:20px;
+	border-radius: 5px;
+}
+
